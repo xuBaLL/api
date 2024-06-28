@@ -1,4 +1,4 @@
-package com.ypjtech.modules.utils.httpClient;
+package com.ball.api.httpClient;
 
 public class HttpClientConstant {
 

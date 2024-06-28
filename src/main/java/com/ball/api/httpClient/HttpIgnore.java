@@ -1,6 +1,6 @@
 
 
-package com.ypjtech.modules.utils.httpClient;
+package com.ball.api.httpClient;
 
 import java.lang.annotation.*;
 

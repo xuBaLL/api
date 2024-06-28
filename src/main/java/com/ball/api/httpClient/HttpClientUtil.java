@@ -1,4 +1,4 @@
-package com.ypjtech.modules.utils.httpClient;
+package com.ball.api.httpClient;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.http.Header;

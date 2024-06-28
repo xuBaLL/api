@@ -1,0 +1,29 @@
+#======================================#
+#========== Project settings ==========#
+#======================================#
+
+
+productName: api
+companyName: ballSea
+
+# 版本、年份
+productVersion: V1.0
+copyrightYear: 2024
+#======================================#
+#========== Server settings ===========#
+#======================================#
+spring:
+  application:
+    name: api
+  profiles:
+    active: default
+server:
+  port: 9078
+  servlet:
+    context-path: /api
+    register-default-servlet: false
+  #    encoding.enabled: true
+  tomcat:
+    uri-encoding: UTF-8
+    # 表单请求数据的最大大小
+    max-http-form-post-size: 20MB

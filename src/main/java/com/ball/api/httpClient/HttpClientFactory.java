@@ -1,4 +1,4 @@
-package com.ypjtech.modules.utils.httpClient;
+package com.ball.api.httpClient;
 
 import org.apache.http.NameValuePair;
 import org.apache.http.client.HttpClient;

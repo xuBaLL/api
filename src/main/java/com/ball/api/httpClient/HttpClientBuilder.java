@@ -1,4 +1,4 @@
-package com.ypjtech.modules.utils.httpClient;
+package com.ball.api.httpClient;
 
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.config.RequestConfig;

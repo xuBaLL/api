@@ -18,8 +18,8 @@ import java.io.Serializable;
 public class MyResponseBody implements Serializable {
 
     private static final long serialVersionUID = -1723282239304139979L;
-    private String code;
-    private String msg;
+    private String code;//返回状态 1成功  0失败
+    private String msg; //返回消息
 
     public String getCode() {
         return code;

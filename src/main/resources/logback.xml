@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
-	<property name="DEFAULT_LOG_DIR" value="C:/api/sw/logs" />
+	<property name="DEFAULT_LOG_DIR" value="D:/api/logs" />
 	<property name="LOG_DIR" value="${sys:LOG_DIR:-${DEFAULT_LOG_DIR}}" />
 
 	<!-- Info Logger -->
